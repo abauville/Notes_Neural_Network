@@ -1,2 +1,2 @@
-# Notes_Neural_Network
-Notes on Neural networks
+# Notes_neural_network
+Notes on neural networks
